@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: computervisionresearchlab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: CVRLAB
+subtitle: Computer Vision Research Lab
+description: Image has become convenient input to most of the applications in the industries and real life. Vision applications like robotic motion, conveyor belt application, automatic vehicle control, video surveillance, automatic quality control, biometrics etc. use image(s) as input. The extracted patterns from the images serve as the major factor deciding the quality of output in the said applications. Hence computer vision and pattern recognition has emerged as an important field of research and prerequisite of many application specific processes. The center will thrust upon researching out industry oriented outputs in the field of computer vision and pattern recognition, and will further step ahead for integrating the developed methods with real world applications.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -10,10 +10,10 @@ proofer: false
 links:
   email: contact@computervisionresearchlab.com
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  google-scholar: uZD3PU4AAAAJ
   github: computervisionresearchlab
-  twitter: computervisionresearchlab
-  youtube: computervisionresearchlab
+  twitter: cvrlab_x
+  youtube: ComputerVisionResearchLab
 
 ### jekyll settings
 
