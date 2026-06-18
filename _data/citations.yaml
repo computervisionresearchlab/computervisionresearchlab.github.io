@@ -1,209 +1,1683 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1109/JSEN.2025.3590815
+  title: A Thermal-Aware Multisensor Framework for Low-Light Image Enhancement
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Santosh Kumar Panda
+  - Pankaj Kumar Sa
+  publisher: IEEE Sensors Journal
+  date: '2025-09-01'
+  link: https://doi.org/hb756z
+  orcid: 0000-0002-8362-3873
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1007/S11036-024-02350-8
+  title: A Resource-Efficient Deep Learning Approach to Visual-Based Cattle Geographic
+    Origin Prediction
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Camellia Ray
+  - Sambit Bakshi
+  - Pankaj Kumar Sa
+  - Ganapati Panda
+  publisher: Mobile Networks and Applications
+  date: '2024-06-20'
+  link: https://doi.org/hb7562
+  orcid: 0000-0002-8362-3873
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1109/JSEN.2024.3481416
+  title: Exposure Calibration Network With Graph Convolution for Low-Light Image Enhancement
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Santosh Kumar Panda
+  - Pankaj Kumar Sa
+  publisher: IEEE Sensors Journal
+  date: '2024-12-15'
+  link: https://doi.org/hb7563
+  orcid: 0000-0002-8362-3873
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1109/LSENS.2024.3380889
+  title: Integrating Graph Convolution Into a Deep Multilayer Framework for Low-Light
+    Image Enhancement
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Santosh Kumar Panda
+  - Pankaj Kumar Sa
+  publisher: IEEE Sensors Letters
+  date: '2024-05-01'
+  link: https://doi.org/hb7564
+  orcid: 0000-0002-8362-3873
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1007/978-3-031-58181-6_41
+  title: "MCCNet: A Multi-scale Cross Connection Network for\_Low-Light Image Enhancement"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Santosh Kumar Panda
+  - Devidutta Nayak
+  - Pankaj Kumar Sa
+  publisher: Communications in Computer and Information Science
+  date: '2024-01-01'
+  link: https://doi.org/hb7565
+  orcid: 0000-0002-8362-3873
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1145/3550485
+  title: Monocular Vision-aided Depth Measurement from RGB Images for Autonomous UAV
+    Navigation
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Ram Prasad Padhy
+  - Pankaj Kumar Sa
+  - Fabio Narducci
+  - Carmen Bisogni
+  - Sambit Bakshi
+  publisher: ACM Transactions on Multimedia Computing, Communications, and Applications
+  date: '2023-09-27'
+  link: https://doi.org/hb7566
+  orcid: 0000-0002-8362-3873
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1109/TCSS.2022.3191340
+  title: On the Usage of Neural POS Taggers for Shakespearean Literature in Social
+    Systems
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Avinash Samantra
+  - Pankaj Kumar Sa
+  - Tu N. Nguyen
+  - Arun Kumar Sangaiah
+  - Sambit Bakshi
+  publisher: IEEE Transactions on Computational Social Systems
+  date: '2024-08-01'
+  link: https://doi.org/hb7567
+  orcid: 0000-0002-8362-3873
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/J.SUSCOM.2022.100841
+  title: A Lightweight Deep Learning Architecture for Vegetation Segmentation using
+    UAV-captured Aerial Images
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Tanmay Kumar Behera
+  - Sambit Bakshi
+  - Pankaj Kumar Sa
+  publisher: 'Sustainable Computing: Informatics and Systems'
+  date: '2023-01-01'
+  link: https://doi.org/hb7568
+  orcid: 0000-0002-8362-3873
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1007/S11042-023-16986-3
+  title: Explainable graph-attention based person re-identification in outdoor conditions
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Nayan Kumar Subhashis Behera
+  - Pankaj Kumar Sa
+  - Sambit Bakshi
+  - Umberto Bilotti
+  publisher: Multimedia Tools and Applications
+  date: '2023-10-10'
+  link: https://doi.org/hb7569
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASE.2023.3318007
+  title: Large-Scale Person Re-Identification for Crowd Monitoring in Emergency
+  authors:
+  - Nayan Kumar Subhashis Behera
+  - Pankaj Kumar Sa
+  - Khan Muhammad
+  - Sambit Bakshi
+  publisher: IEEE Transactions on Automation Science and Engineering
+  date: '2025-01-01'
+  link: https://doi.org/hb757b
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-99-1648-1_3
+  title: "Multi-level 3DCNN with\_Min-Max Ranking Loss for\_Weakly-Supervised Video\
+    \ Anomaly Detection"
+  authors:
+  - Snehashis Majhi
+  - Deepak Ranjan Nayak
+  - Ratnakar Dash
+  - Pankaj Kumar Sa
+  publisher: Communications in Computer and Information Science
+  date: '2023-01-01'
+  link: https://doi.org/hb757c
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3588900
+  title: Part-of-Speech Tagging of Odia Language Using Statistical and Deep Learning
+    Based Approaches
+  authors:
+  - Tusarkanta Dalai
+  - Tapas Kumar Mishra
+  - Pankaj K. Sa
+  publisher: ACM Transactions on Asian and Low-Resource Language Information Processing
+  date: '2023-06-16'
+  link: https://doi.org/gs9wqv
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TII.2022.3196343
+  title: Privacy Preserving Ear Recognition System Using Transfer Learning in Industry
+    4.0
+  authors:
+  - Debbrota Paul Chowdhury
+  - Sambit Bakshi
+  - Chiara Pero
+  - Gustavo Olague
+  - Pankaj Kumar Sa
+  publisher: IEEE Transactions on Industrial Informatics
+  date: '2023-05-01'
+  link: https://doi.org/hb757d
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/JSTARS.2023.3239119
+  title: Superpixel-Based Multiscale CNN Approach Toward Multiclass Object Segmentation
+    From UAV-Captured Aerial Images
+  authors:
+  - Tanmay Kumar Behera
+  - Sambit Bakshi
+  - Michele Nappi
+  - Pankaj Kumar Sa
+  publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote
+    Sensing
+  date: '2023-01-01'
+  link: https://doi.org/hb757f
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11265-022-01777-0
+  title: The NITRDrone Dataset to Address the Challenges for Road Extraction from
+    Aerial Images
+  authors:
+  - Tanmay Kumar Behera
+  - Sambit Bakshi
+  - Pankaj Kumar Sa
+  - Michele Nappi
+  - Aniello Castiglione
+  - Pandi Vijayakumar
+  - Brij Bhooshan Gupta
+  publisher: Journal of Signal Processing Systems
+  date: '2022-07-23'
+  link: https://doi.org/gtgckf
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:12201982
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:12201982
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.IMAVIS.2022.104432
+  title: 'Person re-identification: A taxonomic survey and the path ahead'
+  authors:
+  - Nayan Kumar Subhashis Behera
+  - Pankaj Kumar Sa
+  - Sambit Bakshi
+  - Ram Prasad Padhy
+  publisher: Image and Vision Computing
+  date: '2022-06-01'
+  link: https://doi.org/hb757g
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BDR.2022.100334
+  title: Satellite IoT Based Road Extraction from VHR Images Through Superpixel-CNN
+    Architecture
+  authors:
+  - Tanmay Kumar Behera
+  - Pankaj Kumar Sa
+  - Michele Nappi
+  - Sambit Bakshi
+  publisher: Big Data Research
+  date: '2022-11-01'
+  link: https://doi.org/hb757h
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.COMPAG.2022.107094
+  title: Vegetation Extraction from UAV-based Aerial Images through Deep Learning
+  authors:
+  - Tanmay Kumar Behera
+  - Sambit Bakshi
+  - Pankaj Kumar Sa
+  publisher: Computers and Electronics in Agriculture
+  date: '2022-07-01'
+  link: https://doi.org/gswqwp
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MITP.2020.3020433
+  title: 'Aerial Data Aiding Smart Societal Reformation: Current Applications and
+    Path Ahead'
+  authors:
+  - Tanmay Kumar Behera
+  - Sambit Bakshi
+  - Pankaj Kumar Sa
+  publisher: IT Professional
+  date: '2021-05-01'
+  link: https://doi.org/hb757j
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.PATREC.2021.08.007
+  title: 'Futuristic person re-identification over internet of biometrics things (IoBT):
+    Technical potential versus practical reality'
+  authors:
+  - Nayan Kumar Subhashis Behera
+  - Tanmay Kumar Behera
+  - Michele Nappi
+  - Sambit Bakshi
+  - Pankaj Kumar Sa
+  publisher: Pattern Recognition Letters
+  date: '2021-11-01'
+  link: https://doi.org/hb757k
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICPR48806.2021.9412096
+  title: Localization of Unmanned Aerial Vehicles in Corridor Environments using Deep
+    Learning
+  authors:
+  - Ram Prasad Padhy
+  - Shahzad Ahmad
+  - Sachin Verma
+  - Sambit Bakshi
+  - Pankaj Kumar Sa
+  publisher: 2020 25th International Conference on Pattern Recognition (ICPR)
+  date: '2021-01-10'
+  link: https://doi.org/hb757m
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11042-020-08708-W
+  title: Non-overlapped blockwise interpolated local binary pattern as periocular
+    feature
+  authors:
+  - Gautam Kumar
+  - Sambit Bakshi
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  publisher: Multimedia Tools and Applications
+  date: '2020-04-06'
+  link: https://doi.org/hb757n
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:11900240
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:11900240
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000784811600073
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000784811600073
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.FUTURE.2017.10.033
+  title: Kinesiology-inspired estimation of pedestrian walk direction for smart surveillance
+  authors:
+  - Rahul Raman
+  - Pankaj Kumar Sa
+  - Sambit Bakshi
+  - Banshidhar Majhi
+  publisher: Future Generation Computer Systems
+  date: '2020-07-01'
+  link: https://doi.org/hb757p
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.PATREC.2020.07.030
+  title: 'Person re-identification for smart cities: State-of-the-art and the path
+    ahead'
+  authors:
+  - Nayan Kumar Subhashis Behera
+  - Pankaj Kumar Sa
+  - Sambit Bakshi
+  publisher: Pattern Recognition Letters
+  date: '2020-10-01'
+  link: https://doi.org/hb757q
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11042-019-7665-6
+  title: Semantic ear feature reduction for source camera identification
+  authors:
+  - Debbrota Paul Chowdhury
+  - Sambit Bakshi
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  publisher: Multimedia Tools and Applications
+  date: '2019-05-23'
+  link: https://doi.org/hb757r
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11042-017-5367-5
+  title: Single image super resolution for texture images through neighbor embedding
+  authors:
+  - Deepasikha Mishra
+  - Banshidhar Majhi
+  - Sambit Bakshi
+  - Arun Kumar Sangaiah
+  - Pankaj Kumar Sa
+  publisher: Multimedia Tools and Applications
+  date: '2017-11-29'
+  link: https://doi.org/ggb26x
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.PATREC.2018.10.009
+  title: Wavelet energy feature based source camera identification for ear biometric
+    images
+  authors:
+  - Debbrota Paul Chowdhury
+  - Sambit Bakshi
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  publisher: Pattern Recognition Letters
+  date: '2020-02-01'
+  link: https://doi.org/hb757s
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S12652-017-0580-7
+  title: A person re-identification framework by inlier-set group modeling for video
+    surveillance
+  authors:
+  - Aparajita Nanda
+  - Pankaj K. Sa
+  - Dushyant Singh Chauhan
+  - Bansidhar Majhi
+  publisher: Journal of Ambient Intelligence and Humanized Computing
+  date: '2017-09-21'
+  link: https://doi.org/hb757t
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S00138-018-0939-6
+  title: 'Beyond estimating discrete directions of walk: a fuzzy approach'
+  authors:
+  - Rahul Raman
+  - Larbi Boubchir
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  - Sambit Bakshi
+  publisher: Machine Vision and Applications
+  date: '2018-05-23'
+  link: https://doi.org/hb757v
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:22633151
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:22633151
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCCNT45670.2019.8944406
+  title: Detection of Retinal Disorders in Optical Coherence Tomography using Deep
+    Learning
+  authors:
+  - Divyansh Rastogi
+  - Ram Prasad Padhy
+  - Pankaj Kumar Sa
+  publisher: 2019 10th International Conference on Computing, Communication and Networking
+    Technologies (ICCCNT)
+  date: '2019-07-01'
+  link: https://doi.org/hb757w
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11042-018-6866-8
+  title: Human detection using orientation shape histogram and coocurrence textures
+  authors:
+  - Suman Kumar Choudhury
+  - Ram Prasad Padhy
+  - Pankaj Kumar Sa
+  - Sambit Bakshi
+  publisher: Multimedia Tools and Applications
+  date: '2018-11-27'
+  link: https://doi.org/hb757x
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11042-017-4875-7
+  title: Illumination and scale invariant relevant visual features with hypergraph-based
+    learning for multi-shot person re-identification
+  authors:
+  - Aparajita Nanda
+  - Dushyant Singh Chauhan
+  - Pankaj K. Sa
+  - Sambit Bakshi
+  publisher: Multimedia Tools and Applications
+  date: '2017-06-08'
+  link: https://doi.org/hb757z
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.PATREC.2018.06.026
+  title: Lip biometric template security framework using spatial steganography
+  authors:
+  - Srijan Das
+  - Khan Muhammad
+  - Sambit Bakshi
+  - Imon Mukherjee
+  - Pankaj K Sa
+  - Arun Kumar Sangaiah
+  - Andrea Bruno
+  publisher: Pattern Recognition Letters
+  date: '2019-09-01'
+  link: https://doi.org/hb7572
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TSUSC.2018.2810952
+  title: Monocular Vision Aided Autonomous UAV Navigation in Indoor Corridor Environments
+  authors:
+  - Ram Prasad Padhy
+  - Feng Xia
+  - Suman Kumar Choudhury
+  - Pankaj Kumar Sa
+  - Sambit Bakshi
+  publisher: IEEE Transactions on Sustainable Computing
+  date: '2019-01-01'
+  link: https://doi.org/gh3mhw
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.PATREC.2018.07.012
+  title: Multi-stage cascaded deconvolution for depth map and surface normal prediction
+    from single image
+  authors:
+  - Ram Prasad Padhy
+  - Xiaojun Chang
+  - Suman Kumar Choudhury
+  - Pankaj Kumar Sa
+  - Sambit Bakshi
+  publisher: Pattern Recognition Letters
+  date: '2019-11-01'
+  link: https://doi.org/hb7573
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MCE.2019.2892280
+  title: 'Obstacle Avoidance for Unmanned Aerial Vehicles: Using Visual Features in
+    Unknown Environments'
+  authors:
+  - Ram Prasad Padhy
+  - Suman Kumar Choudhury
+  - Pankaj Kumar Sa
+  - Sambit Bakshi
+  publisher: IEEE Consumer Electronics Magazine
+  date: '2019-05-01'
+  link: https://doi.org/hb7574
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ETT.3522
+  title: Scale Aware Deep Pedestrian Detection
+  authors:
+  - Suman Kumar Choudhury
+  - Ram Prasad Padhy
+  - Arun Kumar Sangaiah
+  - Pankaj Kumar Sa
+  - Khan Muhammad
+  - Sambit Bakshi
+  publisher: Transactions on Emerging Telecommunications Technologies
+  date: '2018-10-16'
+  link: https://doi.org/hb7575
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BSPC.2018.08.012
+  title: Texture feature based classification on microscopic blood smear for acute
+    lymphoblastic leukemia detection
+  authors:
+  - Sonali Mishra
+  - Banshidhar Majhi
+  - Pankaj Kumar Sa
+  publisher: Biomedical Signal Processing and Control
+  date: '2019-01-01'
+  link: https://doi.org/hb7576
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICB45273.2019.8987337
+  title: The Unconstrained Ear Recognition Challenge 2019
+  authors:
+  - "\u017D. Emer\u0161i\u010D"
+  - A. Kumar S. V.
+  - B. S. Harish
+  - W. Gutfeter
+  - J. N. Khiarak
+  - A. Pacut
+  - E. Hansley
+  - M. Pamplona Segundo
+  - S. Sarkar
+  - H. J. Park
+  - G. P. Nam
+  - I.-J. Kim
+  - S. G. Sangodkar
+  - U. Kacar
+  - M. Kirci
+  - L. Yuan
+  - J. Yuan
+  - H. Zhao
+  - F. Lu
+  - J. Mao
+  - X. Zhang
+  - D. Yaman
+  - F. I. Eyiokur
+  - "K. B. \xD6zler"
+  - H. K. Ekenel
+  - D. Paul Chowdhury
+  - S. Bakshi
+  - P. K. Sa
+  - B. Majhi
+  - P. Peer
+  - "V. \u0160truc"
+  publisher: 2019 International Conference on Biometrics (ICB)
+  date: '2019-06-01'
+  link: https://doi.org/hb7577
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:48274201
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:48274201
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.PROCS.2018.07.099
+  title: Deep Neural Network for Autonomous UAV Navigation in Indoor Corridor Environments
+  authors:
+  - Ram Prasad Padhy
+  - Sachin Verma
+  - Shahzad Ahmad
+  - Suman Kumar Choudhury
+  - Pankaj Kumar Sa
+  publisher: Procedia Computer Science
+  date: '2018-01-01'
+  link: https://doi.org/gj6tqv
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11042-017-4965-6
+  title: Fast periocular authentication in handheld devices with reduced phase intensive
+    local pattern
+  authors:
+  - Sambit Bakshi
+  - Pankaj K. Sa
+  - Haoxiang Wang
+  - Soubhagya Sankar Barpanda
+  - Banshidhar Majhi
+  publisher: Multimedia Tools and Applications
+  date: '2017-07-04'
+  link: https://doi.org/gd2bjv
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-10-8636-6_41
+  title: GLRLM-Based Feature Extraction for Acute Lymphoblastic Leukemia (ALL) Detection
+  authors:
+  - Sonali Mishra
+  - Banshidhar Majhi
+  - Pankaj Kumar Sa
+  publisher: Advances in Intelligent Systems and Computing
+  date: '2018-01-01'
+  link: https://doi.org/gm5t5z
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11042-017-4668-Z
+  title: Iris recognition with tunable filter bank based feature
+  authors:
+  - Soubhagya Sankar Barpanda
+  - Pankaj K. Sa
+  - Oge Marques
+  - Banshidhar Majhi
+  - Sambit Bakshi
+  publisher: Multimedia Tools and Applications
+  date: '2017-04-21'
+  link: https://doi.org/gc89z7
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S10916-017-0855-8
+  title: 'On Applicability of Tunable Filter Bank Based Feature for Ear Biometrics:
+    A Study from Constrained to Unconstrained'
+  authors:
+  - Debbrota Paul Chowdhury
+  - Sambit Bakshi
+  - Guodong Guo
+  - Pankaj Kumar Sa
+  publisher: Journal of Medical Systems
+  date: '2017-11-27'
+  link: https://doi.org/gc8snv
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.COMPELECENG.2017.12.048
+  title: Reducing dense local feature key-points for faster iris recognition
+  authors:
+  - Beeren Sahu
+  - Pankaj Kumar Sa
+  - Sambit Bakshi
+  - Arun Kumar Sangaiah
+  publisher: Computers &amp; Electrical Engineering
+  date: '2018-08-01'
+  link: https://doi.org/hb7578
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2017.2686438
+  title: A Neuromorphic Person Re-Identification Framework for Video Surveillance
+  authors:
+  - Aparajita Nanda
+  - Pankaj Sa
+  - Suman Choudhury
+  - Sambit Bakshi
+  - Banshidhar Majhi
+  publisher: IEEE Access
+  date: '2017-01-01'
+  link: https://doi.org/hb7579
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/INDICON.2016.7839086
+  title: A denoising inspired deblurring framework for regularized image restoration
+  authors:
+  - Suman Kumar Choudhury
+  - Pankaj Kumar Sa
+  - Ram Prasad Padhy
+  - Banshidhar Majhi
+  publisher: 2016 IEEE Annual India Conference (INDICON)
+  date: '2016-12-01'
+  link: https://doi.org/hb758b
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JESTCH.2017.03.001
+  title: An unsupervised meta-graph clustering based prototype-specific feature quantification
+    for human re-identification in video surveillance
+  authors:
+  - Aparajita Nanda
+  - Pankaj Kumar Sa
+  - Suman Kumar Choudhury
+  publisher: Engineering Science and Technology, an International Journal
+  date: '2017-06-01'
+  link: https://doi.org/hb758c
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000425458700023
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000425458700023
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BSPC.2016.11.021
+  title: Gray level co-occurrence matrix and random forest based acute lymphoblastic
+    leukemia detection
+  authors:
+  - Sonali Mishra
+  - Banshidhar Majhi
+  - Pankaj Kumar Sa
+  - Lokesh Sharma
+  publisher: Biomedical Signal Processing and Control
+  date: '2017-03-01'
+  link: https://doi.org/f9q876
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-10-2107-7_2
+  title: Improved Feature Selection for Neighbor Embedding Super-Resolution Using
+    Zernike Moments
+  authors:
+  - Deepasikha Mishra
+  - Banshidhar Majhi
+  - Pankaj Kumar Sa
+  publisher: Advances in Intelligent Systems and Computing
+  date: '2016-12-25'
+  link: https://doi.org/hb758d
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11334-017-0307-0
+  title: "Introduction to special issue on \u2018intelligent computing and adaptive\
+    \ systems\u2019"
+  authors:
+  - Al-Sakib Khan Pathan
+  - Yudong Zhang
+  - Sambit Bakshi
+  - Patrick Siarry
+  - Pankaj Kumar Sa
+  - Nabendu Chaki
+  - Agostino Cortesi
+  publisher: Innovations in Systems and Software Engineering
+  date: '2017-11-02'
+  link: https://doi.org/hb758f
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-10-2104-6_16
+  title: Microscopic Image Classification Using DCT for the Detection of Acute Lymphoblastic
+    Leukemia (ALL)
+  authors:
+  - Sonali Mishra
+  - Lokesh Sharma
+  - Bansidhar Majhi
+  - Pankaj Kumar Sa
+  publisher: Advances in Intelligent Systems and Computing
+  date: '2016-12-23'
+  link: https://doi.org/hb758g
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/1.JEI.26.6.063017
+  title: Multishot person reidentification through inlier orientation and consensus
+    clusters
+  authors:
+  - Aparajita Nanda
+  - Suman K. Choudhury
+  - Pankaj K. Sa
+  publisher: Journal of Electronic Imaging
+  date: '2017-11-23'
+  link: https://doi.org/gnfbfg
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-10-3409-1_10
+  title: Single-Shot Person Re-identification by Spectral Matching of Symmetry-Driven
+    Local Features
+  authors:
+  - Aparajita Nanda
+  - Pankaj K. Sa
+  publisher: Advances in Intelligent Systems and Computing
+  date: '2017-01-01'
+  link: https://doi.org/hb758h
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2921555.2921557
+  title: NITRLipV1
+  authors:
+  - Sambit Bakshi
+  - Rahul Raman
+  - Pankaj K. Sa
+  publisher: ACM SIGBioinformatics Record
+  date: '2016-04-13'
+  link: https://doi.org/hb758j
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2921555.2921556
+  title: Periocular localization and feature extraction for human recognition
+  authors:
+  - Sambit Bakshi
+  - Pankaj K. Sa
+  publisher: ACM SIGBioinformatics Record
+  date: '2016-04-13'
+  link: https://doi.org/hb758k
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/rait.2016.7507945
+  title: 'A survey on automated diagnosis on the detection of Leukemia: A hematological
+    disorder'
+  authors:
+  - Sonali Mishra
+  - Bansidhar Majhi
+  - Pankaj Kumar Sa
+  publisher: 2016 3rd International Conference on Recent Advances in Information Technology
+    (RAIT)
+  date: '2016-03-01'
+  link: https://doi.org/hb758m
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000389274300080
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000389274300080
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000400689900227
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000400689900227
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2016.2608847
+  title: An Evaluation of Background Subtraction for Object Detection Vis-a-Vis Mitigating
+    Challenging Scenarios
+  authors:
+  - Suman Kumar Choudhury
+  - Pankaj Kumar Sa
+  - Sambit Bakshi
+  - Banshidhar Majhi
+  publisher: IEEE Access
+  date: '2016-01-01'
+  link: https://doi.org/gjhfvv
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.NEUCOM.2016.04.013
+  title: Development of robust neighbor embedding based super-resolution scheme
+  authors:
+  - Deepasikha Mishra
+  - Banshidhar Majhi
+  - Pankaj Kumar Sa
+  - Ratnakar Dash
+  publisher: Neurocomputing
+  date: '2016-08-01'
+  link: https://doi.org/f8tfqq
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2016.2608844
+  title: 'Direction Estimation for Pedestrian Monitoring System in Smart Cities: An
+    HMM Based Approach'
+  authors:
+  - Rahul Raman
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  - Sambit Bakshi
+  publisher: IEEE Access
+  date: '2016-01-01'
+  link: https://doi.org/hb758n
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11334-016-0278-6
+  title: Direction prediction for avoiding occlusion in visual surveillance
+  authors:
+  - Rahul Raman
+  - Pankaj K. Sa
+  - Banshidhar Majhi
+  publisher: Innovations in Systems and Software Engineering
+  date: '2016-05-06'
+  link: https://doi.org/hb758p
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.IMAGE.2016.01.002
+  title: 'MVS: A multi-view video synopsis framework'
+  authors:
+  - Ansuman Mahapatra
+  - Pankaj K. Sa
+  - Banshidhar Majhi
+  - Sudarshan Padhy
+  publisher: 'Signal Processing: Image Communication'
+  date: '2016-03-01'
+  link: https://doi.org/hb758q
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000371977801075
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000371977801075
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICIP.2015.7351002
+  title: A multi-view video synopsis framework
+  authors:
+  - Ansuman Mahapatra
+  - Pankaj K Sa
+  - Banshidhar Majhi
+  publisher: 2015 IEEE International Conference on Image Processing (ICIP)
+  date: '2015-09-01'
+  link: https://doi.org/hb758r
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BBE.2014.05.003
+  title: A novel phase-intensive local pattern for periocular recognition under visible
+    spectrum
+  authors:
+  - Sambit Bakshi
+  - Pankaj K. Sa
+  - Banshidhar Majhi
+  publisher: Biocybernetics and Biomedical Engineering
+  date: '2015-01-01'
+  link: https://doi.org/hb758s
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/INDICON.2014.7030437
+  title: Covariance based person re-identification using spectral matching
+  authors:
+  - Aparajita Nanda
+  - Pankaj K. Sa
+  - Banshidhar Majhi
+  publisher: 2014 Annual IEEE India Conference (INDICON)
+  date: '2014-12-01'
+  link: https://doi.org/hb758t
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICIINFS.2014.7036500
+  title: Dots and incipient based fingerprint matching scheme using FMM and delaunay
+    triangulation
+  authors:
+  - Satyabrata Swain
+  - Banshidhar Majhi
+  - Ratnakar Dash
+  - Pankaj Kumar Sa
+  publisher: 2014 9th International Conference on Industrial and Information Systems
+    (ICIIS)
+  date: '2014-12-01'
+  link: https://doi.org/gpv3jk
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/INDICON.2014.7030659
+  title: Neighbor Embedding based Super-Resolution using Residual Luminance
+  authors:
+  - Deepasikha Mishra
+  - Banshidhar Majhi
+  - Pankaj Kumar Sa
+  publisher: 2014 Annual IEEE India Conference (INDICON)
+  date: '2014-12-01'
+  link: https://doi.org/hb758v
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-16634-6_8
+  title: Person Re-identification Using Clustering Ensemble Prototypes
+  authors:
+  - Aparajita Nanda
+  - Pankaj K. Sa
+  publisher: Lecture Notes in Computer Science
+  date: '2015-01-01'
+  link: https://doi.org/hb758w
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICIINFS.2014.7036538
+  title: Person Re-identification using prototype formation
+  authors:
+  - Aparajita Nanda
+  - Pankaj K. Sa
+  publisher: 2014 9th International Conference on Industrial and Information Systems
+    (ICIIS)
+  date: '2014-12-01'
+  link: https://doi.org/hb758x
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/INDICON.2014.7030362
+  title: Phase Intensive Global Pattern for periocular recognition
+  authors:
+  - Sambit Bakshi
+  - Pankaj K. Sa
+  - Banshidhar Majhi
+  publisher: 2014 Annual IEEE India Conference (INDICON)
+  date: '2014-12-01'
+  link: https://doi.org/g8k6fp
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.OPTLASTEC.2015.03.003
+  title: Region based feature extraction from non-cooperative iris images using triplet
+    half-band filter bank
+  authors:
+  - Soubhagya Sankar Barpanda
+  - Banshidhar Majhi
+  - Pankaj Kumar Sa
+  publisher: Optics &amp; Laser Technology
+  date: '2015-09-01'
+  link: https://doi.org/hb758z
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11334-015-0251-9
+  title: Region-based feature extraction from non-cooperative iris images using CDF
+    9/7 filter bank
+  authors:
+  - Soubhagya Sankar Barpanda
+  - Banshidhar Majhi
+  - Pankaj K. Sa
+  publisher: Innovations in Systems and Software Engineering
+  date: '2015-06-06'
+  link: https://doi.org/hb7582
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2708463.2709052
+  title: Salient Keypoint Detection using Entropy Map for Iris Biometric
+  authors:
+  - Beeren Sahu
+  - Pankaj K. Sa
+  - Banshidhar Majhi
+  publisher: Proceedings of the 2nd International Conference on Perception and Machine
+    Intelligence
+  date: '2015-02-26'
+  link: https://doi.org/hb7583
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-81-322-1665-0_122
+  title: A Novel Approach for Eye Gaze and Tilt Estimation
+  authors:
+  - Sambit Bakshi
+  - Rahul Raman
+  - Pankaj K. Sa
+  publisher: Advances in Intelligent Systems and Computing
+  date: '2014-01-01'
+  link: https://doi.org/hb7584
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000392870600083
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000392870600083
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000380468300030
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000380468300030
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.AEUE.2013.08.011
+  title: Human recognition system for outdoor videos using Hidden Markov model
+  authors:
+  - Ansuman Mahapatra
+  - Tusar Kanti Mishra
+  - Pankaj K. Sa
+  - Banshidhar Majhi
+  publisher: AEU - International Journal of Electronics and Communications
+  date: '2014-03-01'
+  link: https://doi.org/hb7585
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11704-014-3354-9
+  title: Model based odia numeral recognition using fuzzy aggregated features
+  authors:
+  - Tusar Kanti Mishra
+  - Banshidhar Majhi
+  - Pankaj K. Sa
+  - Sandeep Panda
+  publisher: Frontiers of Computer Science
+  date: '2014-08-26'
+  link: https://doi.org/hb7586
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000392870600305
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000392870600305
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000380468300068
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000380468300068
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000392870600008
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000392870600008
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.14429/DSJ.64.8114
+  title: Set Down Study of Projectile in Flight Through Imaging
+  authors:
+  - Suman Kumar Choudhury
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  - Tapan Kumar Biswal
+  publisher: Defence Science Journal
+  date: '2014-11-13'
+  link: https://doi.org/hb7587
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:48829086
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:48829086
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/FUZZ-IEEE.2013.6622397
+  title: Background subtraction and human detection in outdoor videos using fuzzy
+    logic
+  authors:
+  - Ansuman Mahapatra
+  - Tusar Kanti Mishra
+  - Pankaj K Sa
+  - Banshidhar Majhi
+  publisher: 2013 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)
+  date: '2013-07-01'
+  link: https://doi.org/hb7588
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.MCM.2012.06.034
+  title: Fast segmentation and adaptive SURF descriptor for iris recognition
+  authors:
+  - Hunny Mehrotra
+  - Pankaj K. Sa
+  - Banshidhar Majhi
+  publisher: Mathematical and Computer Modelling
+  date: '2013-07-01'
+  link: https://doi.org/f43fjh
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LSP.2013.2263800
+  title: Intensity Range Based Background Subtraction for Effective Object Detection
+  authors:
+  - K. K. Hati
+  - P. K. Sa
+  - B. Majhi
+  publisher: IEEE Signal Processing Letters
+  date: '2013-08-01'
+  link: https://doi.org/hb7589
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1155/2013/481431
+  title: Optimized Periocular Template Selection for Human Recognition
+  authors:
+  - Sambit Bakshi
+  - Pankaj K. Sa
+  - Banshidhar Majhi
+  publisher: BioMed Research International
+  date: '2013-01-01'
+  link: https://doi.org/gb6f3g
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/FUZZ-IEEE.2013.6622552
+  title: Support vector regression based image restoration
+  authors:
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  publisher: 2013 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)
+  date: '2013-07-01'
+  link: https://doi.org/hb759b
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.PROTCY.2012.10.122
+  title: A Real-time Model for Multiple Human Face Tracking from Low-resolution Surveillance
+    Videos
+  authors:
+  - Rajib Sarkar
+  - Sambit Bakshi
+  - Pankaj K. Sa
+  publisher: Procedia Technology
+  date: '2012-01-01'
+  link: https://doi.org/hb759c
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S00521-011-0583-9
+  title: Adaptive threshold selection for impulsive noise detection in images using
+    coefficient of variance
+  authors:
+  - Subrajeet Mohapatra
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  publisher: Neural Computing and Applications
+  date: '2011-04-05'
+  link: https://doi.org/ffzx3g
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000393375200089
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000393375200089
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2345396.2345486
+  title: An efficient DoG based fingerprint enhancement scheme
+  authors:
+  - Shila Samantaray
+  - Sambit Bakshi
+  - Pankaj K. Sa
+  publisher: Proceedings of the International Conference on Advances in Computing,
+    Communications and Informatics
+  date: '2012-08-03'
+  link: https://doi.org/hb759d
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.PROENG.2012.06.198
+  title: 'Evaluation of Periocular Over Face Biometric: A Case Study'
+  authors:
+  - Sambit Bakshi
+  - Sunita Kumari
+  - Rahul Raman
+  - Pankaj K. Sa
+  publisher: Procedia Engineering
+  date: '2012-01-01'
+  link: https://doi.org/hb759f
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000324340200006
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000324340200006
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/PrimeAsia.2012.6458622
+  title: 'LOBS: Local background subtracter for video surveillance'
+  authors:
+  - Kalyan Kumar Hati
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  publisher: 2012 Asia Pacific Conference on Postgraduate Research in Microelectronics
+    and Electronics
+  date: '2012-12-01'
+  link: https://doi.org/hb759g
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Occlusion prediction algorithms for multi-camera network
+  publisher: 2012 6th International Conference on Distributed Smart Cameras, ICDSC
+    2012
+  date: '2026-06-13'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84875109458&partnerID=MN8TOARS
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000319395400028
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000319395400028
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11390-012-1279-Z
+  title: Particle Swarm Optimization Based Support Vector Regression for Blind Image
+    Restoration
+  authors:
+  - Ratnakar Dash
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  publisher: Journal of Computer Science and Technology
+  date: '2012-09-01'
+  link: https://doi.org/ggb23h
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/RAIT.2012.6194485
+  title: 'Review on image sonification: A non-visual scene representation'
+  authors:
+  - Rajib Sarkar
+  - Sambit Bakshi
+  - Pankaj K Sa
+  publisher: 2012 1st International Conference on Recent Advances in Information Technology
+    (RAIT)
+  date: '2012-03-01'
+  link: https://doi.org/hb759h
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000319214400176
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000319214400176
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/INDCON.2012.6420754
+  title: Robotic navigation in the presence of static and dynamic obstacles
+  authors:
+  - ' Amit Arup Nayak'
+  - ' Deepankar Singh Purniya'
+  - ' Gigyanshu Ranjan Pradhan'
+  - Pankaj K. Sa
+  publisher: 2012 Annual IEEE India Conference (INDICON)
+  date: '2012-12-01'
+  link: https://doi.org/hb759j
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICDCSyst.2012.6188740
+  title: Score level fusion of SIFT and SURF for iris
+  authors:
+  - S. Bakshi
+  - S. Das
+  - H. Mehrotra
+  - P. K. Sa
+  publisher: 2012 International Conference on Devices, Circuits and Systems (ICDCS)
+  date: '2012-03-01'
+  link: https://doi.org/hb759k
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.PROTCY.2012.10.124
+  title: Towards Optimized Placement of Cameras for Gait Pattern Recognition
+  authors:
+  - Rahul Raman
+  - Pankaj K. Sa
+  - Sambit Bakshi
+  - Bansidhar Majhi
+  publisher: Procedia Technology
+  date: '2012-01-01'
+  link: https://doi.org/hb759m
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICIIP.2011.6108952
+  title: Adaptive edge preserving regularized image restoration
+  authors:
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  publisher: 2011 International Conference on Image Information Processing
+  date: '2011-11-01'
+  link: https://doi.org/fxqfzj
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/1947940.1947998
+  title: Bitonic sort in shared SIMD array processor
+  authors:
+  - Anukul Chandra Panda
+  - Pankaj K. Sa
+  - Banshidhar Majhi
+  publisher: Proceedings of the 2011 International Conference on Communication, Computing
+    &amp; Security
+  date: '2011-02-12'
+  link: https://doi.org/dknktt
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/1947940.1948011
+  title: Gender classification by principal component analysis and support vector
+    machine
+  authors:
+  - Sunita Kumari
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  publisher: Proceedings of the 2011 International Conference on Communication, Computing
+    &amp; Security
+  date: '2011-02-12'
+  link: https://doi.org/ck8tdj
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000394020400033
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000394020400033
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/INDCON.2011.6139357
+  title: Lip pattern recognition based on local feature extraction
+  authors:
+  - Sambit Bakshi
+  - Rahul Raman
+  - Pankaj K. Sa
+  publisher: 2011 Annual IEEE India Conference
+  date: '2011-12-01'
+  link: https://doi.org/fztgrd
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/1947940.1948019
+  title: Restoration of images corrupted with blur and impulse noise
+  authors:
+  - Ratnakar Dash
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  publisher: Proceedings of the 2011 International Conference on Communication, Computing
+    &amp; Security
+  date: '2011-02-12'
+  link: https://doi.org/dt48vc
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1504/IJCVR.2011.039358
+  title: Spatial variant motion deblurring of images
+  authors:
+  - Ratnakar Dash
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  publisher: International Journal of Computational Vision and Robotics
+  date: '2011-01-01'
+  link: https://doi.org/fd6m42
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICICS.2011.6173607
+  title: Unconstrained iris recognition using F-SIFT
+  authors:
+  - H. Mehrotra
+  - B. Majhi
+  - P. K. Sa
+  publisher: 2011 8th International Conference on Information, Communications &amp;
+    Signal Processing
+  date: '2011-12-01'
+  link: https://doi.org/hb759n
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.AEUE.2009.01.005
+  title: An improved adaptive impulsive noise suppression scheme for digital images
+  authors:
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  publisher: AEU - International Journal of Electronics and Communications
+  date: '2010-04-01'
+  link: https://doi.org/b2wwhk
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-0-387-76483-2_23
+  title: Improved iterative blind image deconvolution
+  authors:
+  - Pankaj Kumar Sa
+  - Ratnakar Dash
+  - Banshidhar Majhi
+  - Ganapati Panda
+  publisher: Lecture Notes in Electrical Engineering
+  date: '2009-01-01'
+  link: https://doi.org/bp62kj
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICACC.2009.98
+  title: RBFN Based Motion Blur Parameter Estimation
+  authors:
+  - Ratnakar Dash
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  publisher: 2009 International Conference on Advanced Computer Control
+  date: '2009-01-01'
+  link: https://doi.org/c6x2tb
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1504/IJSISE.2009.029329
+  title: Restoration of motion blurred images
+  authors:
+  - Pankaj Kumar Sa
+  - Ratnakar Dash
+  - Banshidhar Majhi
+  publisher: International Journal of Signal and Imaging Systems Engineering
+  date: '2009-01-01'
+  link: https://doi.org/fh9xt5
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICIINFS.2009.5429836
+  title: Second order difference based detection and directional weighted median filter
+    for removal of random valued impulsive noise
+  authors:
+  - Pankaj Kumar Sa
+  - Ratnakar Dash
+  - Banshidhar Majhi
+  publisher: 2009 International Conference on Industrial and Information Systems (ICIIS)
+  date: '2009-12-01'
+  link: https://doi.org/dc5hsf
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICETET.2008.105
+  title: Improved Enhancement Scheme Using a RBFN Detector for Impulse Noise
+  authors:
+  - Subrajeet Mohapatra
+  - Ratnakar Dash
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  publisher: 2008 First International Conference on Emerging Trends in Engineering
+    and Technology
+  date: '2008-01-01'
+  link: https://doi.org/dxpzfv
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.AEUE.2006.08.007
+  title: FLANN-based adaptive threshold selection for detection of impulsive noise
+    in images
+  authors:
+  - Banshidhar Majhi
+  - Pankaj Kumar Sa
+  publisher: AEU - International Journal of Electronics and Communications
+  date: '2007-07-01'
+  link: https://doi.org/c8f4f9
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/FUZZY.2007.4295380
+  title: Improved Adaptive Impulsive Noise Suppression
+  authors:
+  - Pankaj Kumar Sa
+  - Banshidhar Majhi
+  - Ganapati Panda
+  publisher: 2007 IEEE International Fuzzy Systems Conference
+  date: '2007-06-01'
+  link: https://doi.org/d2bjms
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000252371500051
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000252371500051
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000253518500073
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000253518500073
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000253518500051
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000253518500051
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- title: ANN based adaptive thresholding for impulse detection
+  publisher: Proceedings of the Third IASTED International Conference on Signal Processing,
+    Pattern Recognition, and Applications
+  date: '2026-06-13'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33847202984&partnerID=MN8TOARS
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Fast periocular authentication in handheld devices with reduced phase intensive
+    local pattern
+  date: '2026-06-13'
+  orcid: 0000-0002-8362-3873
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11042-017-4933-1
+  title: Improved pedestrian detection using motion segmentation and silhouette orientation
+  authors:
+  - Suman Kumar Choudhury
+  - Pankaj Kumar Sa
+  - Ram Prasad Padhy
+  - Saurav Sharma
+  - Sambit Bakshi
+  publisher: Multimedia Tools and Applications
+  date: '2017-06-21'
+  link: https://doi.org/gdq6pb
+  orcid: 0000-0002-8362-3873
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -219,9 +1693,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -238,21 +1709,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
