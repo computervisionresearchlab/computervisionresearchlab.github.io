@@ -1,9 +1,9 @@
 ---
 ---
 
-# computervisionresearchlab's Website
+# Computer Vision Research Laboratory
 
-An engaging 1-3 sentence description of your lab.
+Computer Vision Research Laboratory advances applied vision systems for low-light image enhancement, thermal imaging, object tracking, leaf disease detection, and efficient edge-device deployment.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We design algorithms and models to improve image quality in low-light and thermal scenes while keeping inference fast, reliable, and ready for real-world use.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our projects span thermal vision, object tracking, plant health diagnostics, and compact edge models that run on cameras, drones, and embedded devices.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our multidisciplinary team brings together computer vision, machine learning, and embedded systems expertise to build practical solutions for industry and agriculture.
 
 {%
   include button.html

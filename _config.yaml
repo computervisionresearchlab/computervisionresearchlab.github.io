@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: CVRLAB
 subtitle: Computer Vision Research Lab
-description: Image has become convenient input to most of the applications in the industries and real life. Vision applications like robotic motion, conveyor belt application, automatic vehicle control, video surveillance, automatic quality control, biometrics etc. use image(s) as input. The extracted patterns from the images serve as the major factor deciding the quality of output in the said applications. Hence computer vision and pattern recognition has emerged as an important field of research and prerequisite of many application specific processes. The center will thrust upon researching out industry oriented outputs in the field of computer vision and pattern recognition, and will further step ahead for integrating the developed methods with real world applications.
+description: Computer Vision Research Laboratory focuses on low-light image enhancement, thermal imaging, object tracking, leaf disease detection, and building efficient models for edge devices. We develop applied vision systems and compact neural models for real-world cameras, drones, and embedded platforms.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -9,8 +9,8 @@ proofer: false
 # site social media and other links
 links:
   email: contact@computervisionresearchlab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: uZD3PU4AAAAJ
+  orcid: 0000-0002-8362-3873
+  google-scholar: uZD3PU4AAAAJ&hl
   github: computervisionresearchlab
   twitter: cvrlab_x
   youtube: ComputerVisionResearchLab
